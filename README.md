@@ -1,1 +1,2 @@
 # spring_boot_microservices
+Developed a scalable money exchange platform using Spring Boot microservices architecture. Utilized Feign for communication between microservices, Eureka as the naming server for service discovery, and Zipkin for distributed tracing of requests across services. Containerized the application using Docker and deployed it on Google Kubernetes Engine (GKE) for orchestration.
